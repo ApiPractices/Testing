@@ -1,0 +1,129 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: #fae48b99;
+  color: gray;
+  padding: 15px;
+  font-size: 2em;
+  border-radius: 5rem;
+}
+
+.nav a {
+  color: #e762d799;
+  text-decoration: none;
+}
+
+.names {
+  color: red;
+
+  
+}
+
+.locations {
+  color: red;
+
+  
+}
+
+.species {
+  color: green;
+  background-color: #fae48b99;
+  width: 167px;
+  padding: 1px;
+
+  border-radius: 30px;
+}
+
+.status {
+  color: red;
+  
+  
+}
+
+body {
+  background-color: #fb646799;
+}
+
+button {
+  background-color: greenyellow;
+  border-radius: 5rem;
+}
+
+input {
+  width: 120px;
+}
+
+.speciez {
+  color: green;
+  background-color: #fae48b99;
+  width: fit-content;
+  padding: 2px;
+  margin-top: 10px;
+  border-radius: 30px;
+}
+
+.listName {
+  background-color: greenyellow;
+  width: fit-content;
+  border-radius: 30px;
+  margin-top: 10px;
+  padding: 2px;
+}
+
+.avatar {
+  margin-top: 10px;
+}
+
+.loading img {
+  height: 100vh;
+  width: 100vw;
+}
+
+.flexy {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  column-gap: 10px;
+}
+
+.listNamed {
+  background-color: #62a4ab;
+  width: fit-content;
+  border-radius: 30px;
+  margin-top: 10px;
+  padding: 2px;
+}
+.footer {
+  text-align: center;
+  background-color: #fae48b99;
+  color: Black;
+  padding: 15px;
+  font-size: 2em;
+}
+
+h1 {
+  text-align: center;
+  color: ;
+}
+
+.locations {
+  color: lightgreen;
+}
+
+span {
+  color: black;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  
+}
+
+.wasp{
+  color: green;
+  background-color: #fae48b99;
+  width: 167px;
+  padding: 1px;
+
+  border-radius: 30px;
+}
+
+img{
+  margin-top: 10px;
+}
